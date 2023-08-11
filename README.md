@@ -8,7 +8,7 @@ This is a personal portfolio website. This contains a landing page, about me sec
 I have to give a big shout out to CodeBucks video on [youtube](https://www.youtube.com/watch?v=Yw7yWHigGKI) as this was a tutorial from him. I added or changed a few aesthetics but he has provided a really clean and easy to use webpage that I think is very professional. Excellent for what I want to use it for. <br />
 <b>You can view a live demo [here](https://chris-kernaghan.github.io/my-portfolio/)</b>
 
-## Images of The Portfolio Website:
+## Images of The Portfolio Website (dark mode):
 
 ### Landing Page
 ![landing page portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/df857889-4144-4525-9bf3-eed951a7c4d6)
