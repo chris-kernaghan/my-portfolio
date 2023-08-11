@@ -95,13 +95,13 @@ const NavBar = () => {
                         </nav>
 
                         <nav className="flex items-center justify-center flex-wrap mt-2">
-                            <motion.a href="https://twitter.com" target={"_blank"}
+                            <motion.a href="https://www.github.com/chris-kernaghan" target={"_blank"}
                                 whileHover={{ y: -2 }}
                                 whileTap={{ scale: 0.9 }}
                                 className="w-6 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1">
                                 <GithubIcon />
                             </motion.a>
-                            <motion.a href="https://twitter.com" target={"_blank"}
+                            <motion.a href="https://www.linkedin.com/in/chris-kernaghan-339a0b276/" target={"_blank"}
                                 whileHover={{ y: -2 }}
                                 whileTap={{ scale: 0.9 }}
                                 className="w-6 mx-3 sm:mx-1">
