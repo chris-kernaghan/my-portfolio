@@ -1,43 +1,44 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Portfolio Website built using NextJS, Framer-Motion and Tailwind CSS 🌟
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+## About Project
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
+This is a personal portfolio website. This contains a landing page, about me section including skills, experience and education, projects section and a section for mini projects which I enjoyed making. Users are also capable of emailing myself and downloading my current cv. There is also various animated areas in the project and users are able to click links to my github and linkedin accounts. There is also a light or dark option which saves to the local storage. I created this site in order to boost my skills with Nextjs but also as I wanted to showcase some of the work I have accomplished in my studies.  
 
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion) <br />
+## Inspiration and Guidance
+I have to give a big shout out to CodeBucks video on [youtube](https://www.youtube.com/watch?v=Yw7yWHigGKI) as this was a tutorial from him. I added or changed a few aesthetics but he has provided a really clean and easy to use webpage that I think is very professional. Excellent for what I want to use it for. <br />
+<b>You can view a live demo [here](https://chris-kernaghan.github.io/my-portfolio/)</b>
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
+## Images of The Portfolio Website:
 
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
+### Landing Page
+![landing page portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/df857889-4144-4525-9bf3-eed951a7c4d6)
+### About Me
+![about me portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/3d0b8733-b54b-4a66-a67a-2ffa3f41b3ae)
+### Skills
+![skills portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/4ba70aba-f5f7-400d-9f60-c9ef725b976d)
+### Experience
+![experience portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/6317efa1-981e-4bb5-8aad-813812908c22)
+### Education
+![education portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/d5fe1b75-40cd-46b2-8b12-2672b20d005e)
+### Projects
+![projects portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/0b1e3627-7679-4733-a9b4-d90653b8cec2)
+### Fun Projects
+![play portfolio](https://github.com/chris-kernaghan/my-portfolio/assets/132615138/25041fe9-fa70-4535-96bd-cb4f4abf9c09)
 
-### Images of The Portfolio Website:
-
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+## Getting Started
+To get this webpage running locally: <br />
+``` git clone https://github.com/chris-kernaghan/my-portfolio.git``` to clone this repo <br />
+```npm install ``` to install all dependencies <br />
+```npm run dev ``` to start the local server <br />
 
 
-### Resources Used in This Project
-
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+## Resources Used in This Project
+- Own photos used for images of myself or for projects
 - Fonts from https://fonts.google.com/ <br />
 - Icons from https://iconify.design/ <br />
 - LightBulb Svg from https://lukaszadam.com/illustrations <br />
 
-### External Libraries used in this project:
+## External Libraries used in this project:
 
 - [framer-motion](https://www.framer.com/motion/) <br />
 - [Tailwind css](https://tailwindcss.com/) <br />
