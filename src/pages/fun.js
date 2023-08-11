@@ -95,7 +95,7 @@ const fun = () => {
                         <Project 
                         title="Rock, Paper, Scissors, Lizard, Spock!"
                         img={project9}
-                        summary="Taken from th show The Big Bang Theory, in the style of rock, papaer scissors. You compete against the randomly generated answers from the computer. Each time you win the confetti.js provides animated confetti on screen."
+                        summary="Taken from the show The Big Bang Theory, in the style of rock, paper, scissors. You compete against the randomly generated answers from the computer. Each time you win the confetti.js provides animated confetti on screen."
                         link="https://chris-kernaghan.github.io/lizard-spock-game/"
                         github="https://chris-kernaghan.github.io/lizard-spock-game/"
                         type="Project" 
